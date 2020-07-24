@@ -1,6 +1,19 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 ### Hi there 👋
+#### 🏊‍♂️ <a href="https://gist.github.com/tw93/7854aac61f991ef4e7ae7b8440e4fdc6" target="_blank">Weekly Development Breakdown</a>
 
+<!-- code_time starts -->
+
+```text
+Markdown     8 hrs 29 mins  ██████████████▓░░░░░  58.8%
+Python       2 hrs 29 mins  ██████▒░░░░░░░░░░░░░  17.3%
+YAML                  1 hr  ████▒░░░░░░░░░░░░░░░   6.9%
+TypeScript         53 mins  ████░░░░░░░░░░░░░░░░   6.2%
+JSON               47 mins  ████░░░░░░░░░░░░░░░░   5.4%
+Ruby               12 mins  ███░░░░░░░░░░░░░░░░░   1.4%
+```
+
+<!-- code_time ends -->
 <!--
 **khrisparrales/khrisparrales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
