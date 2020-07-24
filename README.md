@@ -12,6 +12,8 @@ TypeScript       53 mins  ████░░░░░░░░░░░░░░
 JSON             47 mins  ████░░░░░░░░░░░░░░░░   5.4%
 Node             12 mins  ███░░░░░░░░░░░░░░░░░   1.4%
 ```
+![Visitor Count](https : //profile-counter.glitch.me/khrisparrales/count.svg)
+
 
 <!-- code_time ends -->
 <!--
